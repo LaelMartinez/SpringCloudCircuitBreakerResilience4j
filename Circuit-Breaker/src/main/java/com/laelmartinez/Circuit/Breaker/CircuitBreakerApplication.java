@@ -9,6 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 public class CircuitBreakerApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(CircuitBreakerApplication.class, args);
 	}
 
